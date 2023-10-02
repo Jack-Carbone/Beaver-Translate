@@ -1,5 +1,5 @@
 
-![Logo](src="https://github.com/Jack-Carbone/Beaver-Translate/blob/main/Logo_Full.png)
+![alt text](src="https://github.com/Jack-Carbone/Beaver-Translate/blob/main/Logo_Full.png?raw=true)
 
 
 # Beaver Translate
